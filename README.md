@@ -1,17 +1,17 @@
 # Risk of Rain 2: Mods
 
-Exporting profile as file and importing as new appears to miss `MMHOOK` plugin, so here's my ordered list of preferred mods to install *(dependencies omitted)*.
+Using [r2modman](https://thunderstore.io/package/ebkr/r2modman/)'s *'Export profile as file'* and importing as new appears to miss `MMHOOK` plugin, so here's my ordered list of preferred mods to install *(dependencies omitted)*.
 
-### Core
-1. [HookGenPatcher](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/)
-2. [BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/)
-3. [Hatsune_Miku_Artificer](https://thunderstore.io/package/SussyBnuuy/Hatsune_Miku_Artificer/)
-4. [BlackHole_Commando](https://thunderstore.io/package/FantomAs/BlackHole_Commando/)
-5. [ModelSwapperSkins](https://thunderstore.io/package/Goorakh/ModelSwapperSkins/)
-6. [PillarRevive](https://thunderstore.io/package/Thrayonlosa/PillarRevive/)
+### Preferred
+1. [HookGenPatcher](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/) *— common dependencies*
+2. [BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/) *— mainly for more helpful item descriptions*
+3. [Hatsune_Miku_Artificer](https://thunderstore.io/package/SussyBnuuy/Hatsune_Miku_Artificer/) *— skin*
+4. [BlackHole_Commando](https://thunderstore.io/package/FantomAs/BlackHole_Commando/) *— skin*
+5. [ModelSwapperSkins](https://thunderstore.io/package/Goorakh/ModelSwapperSkins/) *— apply any skin to any character*
+6. [PillarRevive](https://thunderstore.io/package/Thrayonlosa/PillarRevive/) *— server-side multiplayer respawn mechanic*
 
 ### Optional
-- [Refightilization](https://thunderstore.io/package/Wonda/Refightilization/)
+- [Refightilization](https://thunderstore.io/package/Wonda/Refightilization/) *— respawn as a monster*
 
 ### Developing
-- [UnityExplorer](https://thunderstore.io/package/sinai-dev/UnityExplorer/)
+- [UnityExplorer](https://thunderstore.io/package/sinai-dev/UnityExplorer/) *— inspecting GameObjects and Components*
