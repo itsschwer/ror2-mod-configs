@@ -1,0 +1,12 @@
+# Use .gitignore as whitelist (https://jasonstitt.com/gitignore-whitelisting-patterns)
+# Ignore everything
+*
+# But still check directories
+!*/
+# Track git files
+!.gitignore
+!.gitattributes
+# ------------------------------------------------------------------------------------
+
+!/README.md
+!/config/*
