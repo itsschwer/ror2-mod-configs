@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UserProfile>
-	<achievementsList>ObtainArtifactSwarms ObtainArtifactSingleMonsterType ObtainArtifactShadowClone ObtainArtifactSacrifice ObtainArtifactRandomSurvivorOnRespawn ObtainArtifactMixEnemy ObtainArtifactEliteOnly</achievementsList>
+	<achievementsList>ObtainArtifactSwarms ObtainArtifactSingleMonsterType ObtainArtifactShadowClone ObtainArtifactSacrifice ObtainArtifactMixEnemy ObtainArtifactEliteOnly ObtainArtifactWeakAssKnees ObtainArtifactFriendlyFire</achievementsList>
 	<coins>10</coins>
 	<discoveredPickups></discoveredPickups>
 	<gamepadVibrationScale>1</gamepadVibrationScale>
@@ -3345,7 +3345,8 @@
 		<unlock>Artifacts.ShadowClone</unlock>
 		<unlock>Artifacts.Swarms</unlock>
 		<unlock>Artifacts.MixEnemy</unlock>
-		<unlock>Artifacts.RandomSurvivorOnRespawn</unlock>
+		<unlock>Artifacts.WeakAssKnees</unlock>
+		<unlock>Artifacts.FriendlyFire</unlock>
 	</stats>
 	<tutorialDifficulty>0</tutorialDifficulty>
 	<tutorialEquipment>0</tutorialEquipment>
