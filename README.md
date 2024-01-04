@@ -13,7 +13,16 @@ Using [r2modman](https://thunderstore.io/package/ebkr/r2modman/)'s *'Export prof
 
 ### Optional
 - [DamageLog](https://thunderstore.io/package/itsschwer/DamageLog/) *— client-side; adds a damage log to the HUD*
+- [LobbyVotesSave](https://thunderstore.io/package/KingEnderBrine/LobbyVotesSave/) *— client-side; saves chosen difficulty and artifacts between game restarts*
 - [Refightilization](https://thunderstore.io/package/Wonda/Refightilization/) *— server-side; respawn as a monster*
+
+### Extra
+- [EnemyItemDisplays](https://thunderstore.io/package/TheTimesweeper/EnemyItemDisplays/)
+- [StageAesthetic](https://thunderstore.io/package/HIFU/StageAesthetic/)
+<!--  -->
+- [RiskOfChaos](https://thunderstore.io/package/Goorakh/RiskOfChaos/) *— must be installed by all players if using*
+
+----
 
 ### Developing
 - [UnityExplorer](https://thunderstore.io/package/sinai-dev/UnityExplorer/) *— inspecting GameObjects and Components*
