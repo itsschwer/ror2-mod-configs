@@ -2,7 +2,7 @@
 <UserProfile>
 	<achievementsList>ObtainArtifactSwarms ObtainArtifactSingleMonsterType ObtainArtifactShadowClone ObtainArtifactSacrifice ObtainArtifactMixEnemy ObtainArtifactEliteOnly ObtainArtifactWeakAssKnees ObtainArtifactFriendlyFire</achievementsList>
 	<coins>10</coins>
-	<discoveredPickups></discoveredPickups>
+	<discoveredPickups>LunarCoin.Coin0</discoveredPickups>
 	<gamepadVibrationScale>1</gamepadVibrationScale>
 	<joystickMap>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;JoystickMap dataVersion="2" hardwareGuid="00000000-0000-0000-0000-000000000000" hardwareName="Unknown"
 		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://guavaman.com/rewired http://guavaman.com/schemas/rewired/1.1/JoystickMap.xsd"
@@ -3332,7 +3332,6 @@
 		<unlock>Skills.Captain.CaptainSupplyDropHacking</unlock>
 		<unlock>Skills.Commando.FireShotgunBlast</unlock>
 		<unlock>Skills.Commando.ThrowGrenade</unlock>
-		<unlock>Skills.Bandit2.Rifle</unlock>
 		<unlock>Skills.Mage.LightningBolt</unlock>
 		<unlock>Skills.Mage.FlyUp</unlock>
 		<unlock>Skills.Mage.IceBomb</unlock>
@@ -3362,10 +3361,17 @@
 			</BodyLoadout>
 			<BodyLoadout bodyName="MageBody">
 				<Skin>2</Skin>
-				<SkillPreference skillFamily="MageBodyPrimaryFamily">MageBodyFireLightningBolt</SkillPreference>
+				<SkillPreference skillFamily="MageBodyPrimaryFamily">MageBodyFireFirebolt</SkillPreference>
 				<SkillPreference skillFamily="MageBodySecondaryFamily">MageBodyNovaBomb</SkillPreference>
 				<SkillPreference skillFamily="MageBodyUtilityFamily">MageBodyWall</SkillPreference>
 				<SkillPreference skillFamily="MageBodySpecialFamily">MageBodyFlyUp</SkillPreference>
+			</BodyLoadout>
+			<BodyLoadout bodyName="CommandoBody">
+				<Skin>2</Skin>
+				<SkillPreference skillFamily="CommandoBodyPrimaryFamily">CommandoBodyFirePistol</SkillPreference>
+				<SkillPreference skillFamily="CommandoBodySecondaryFamily">CommandoBodyFireShotgunBlast</SkillPreference>
+				<SkillPreference skillFamily="CommandoBodyUtilityFamily">CommandoSlide</SkillPreference>
+				<SkillPreference skillFamily="CommandoBodySpecialFamily">CommandoBodyBarrage</SkillPreference>
 			</BodyLoadout>
 		</BodyLoadouts>
 	</loadout>
