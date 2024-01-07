@@ -12,14 +12,14 @@ Using [r2modman](https://thunderstore.io/package/ebkr/r2modman/)'s *'Export prof
 7. [PillarRevive](https://thunderstore.io/package/Thrayonlosa/PillarRevive/) *— server-side; multiplayer respawn mechanic*
 
 ### Optional
-- [DamageLog](https://thunderstore.io/package/itsschwer/DamageLog/) *— client-side; adds a damage log to the HUD*
 - [LobbyVotesSave](https://thunderstore.io/package/KingEnderBrine/LobbyVotesSave/) *— client-side; saves chosen difficulty and artifacts between game restarts*
-- [Refightilization](https://thunderstore.io/package/Wonda/Refightilization/) *— server-side; respawn as a monster*
+- [DamageLog](https://thunderstore.io/package/itsschwer/DamageLog/) *— client-side; adds a damage log to the HUD*
 
 ### Extra
 - [EnemyItemDisplays](https://thunderstore.io/package/TheTimesweeper/EnemyItemDisplays/)
 - [StageAesthetic](https://thunderstore.io/package/HIFU/StageAesthetic/)
 <!--  -->
+- [Refightilization](https://thunderstore.io/package/Wonda/Refightilization/) *— server-side; respawn as a monster*
 - [RiskOfChaos](https://thunderstore.io/package/Goorakh/RiskOfChaos/) *— must be installed by all players if using*
 
 ----
