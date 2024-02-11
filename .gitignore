@@ -12,3 +12,7 @@
 !/config/**/*
 
 !/dev-save.xml
+
+# Ignore -----------------------------------------------------------------------------
+
+/config/HIFU.StageAesthetic.Backup.cfg

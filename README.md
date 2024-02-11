@@ -15,9 +15,9 @@ Using [r2modman](https://thunderstore.io/package/ebkr/r2modman/)'s *'Export prof
 ----
 
 ### Optional
-- [LobbyVotesSave](https://thunderstore.io/package/KingEnderBrine/LobbyVotesSave/) *— client-side; saves chosen difficulty and artifacts between game restarts (`~/AppData/LocalLow/Hopoo Games, LLC/Risk of Rain 2/LobbyVotesSave`<sup>[src](https://github.com/KingEnderBrine/-RoR2-LobbyVotesSave/blob/1a6c3678b9a592214e8f644b9612c1a5512d1c3e/LobbyVotesSave/LobbyVotesSavePlugin.cs#L27)</sup>)*
 - [EnemyItemDisplays](https://thunderstore.io/package/TheTimesweeper/EnemyItemDisplays/) — *client-side; adds (some) item displays for (some) monsters (e.g. Artifact of Evolution, Void Fields, Simulacrum)*
 - [StageAesthetic](https://thunderstore.io/package/HIFU/StageAesthetic/) *— client-side(?); adds theme variants for stages*
+- [LobbyVotesSave](https://thunderstore.io/package/KingEnderBrine/LobbyVotesSave/) *— client-side; saves chosen difficulty and artifacts between game restarts (`~/AppData/LocalLow/Hopoo Games, LLC/Risk of Rain 2/LobbyVotesSave`<sup>[src](https://github.com/KingEnderBrine/-RoR2-LobbyVotesSave/blob/1a6c3678b9a592214e8f644b9612c1a5512d1c3e/LobbyVotesSave/LobbyVotesSavePlugin.cs#L27)</sup>)*
 
 ----
 
