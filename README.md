@@ -24,7 +24,6 @@ Using [r2modman](https://thunderstore.io/package/ebkr/r2modman/)'s *'Export prof
 ### Alternative Gamemodes
 - [Refightilization](https://thunderstore.io/package/Wonda/Refightilization/) *— server-side; respawn as a monster*
 - [RiskOfChaos](https://thunderstore.io/package/Goorakh/RiskOfChaos/) *— **all players**; might be buggy; triggers a random effect every minute*
-- [Starstorm2](https://thunderstore.io/package/TeamMoonstorm/Starstorm2/) *— **all players**; ensure configs match; fan-made expansion*
 
 ----
 
