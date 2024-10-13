@@ -40,7 +40,8 @@
 
 ## Dependency Strings
 
-### Devotion Update
+<details><summary>Devotion Update</summary>
+
 ```
 RiskofThunder-BepInEx_GUI-3.0.3
 RiskofThunder-FixPluginTypesSerialization-1.0.4
@@ -59,40 +60,17 @@ itsschwer-PressureDrop-1.3.1
 RiskofThunder-R2API_ContentManagement-1.0.4
 RiskofThunder-R2API_Prefab-1.0.3
 Thrayonlosa-PillarRevive-1.1.0
-itsschwer-DamageLog-1.1.3
+itsschwer-DamageLog-1.2.0
 sinai-dev-UnityExplorer-4.8.2
 TheTimesweeper-EnemyItemDisplays-0.1.1
 HitagiTzuyu-GanyuRailgunnerSkin-1.0.2
 KanadeFan-Kanade_Yoisaki_Artificer-1.0.0
-itsschwer-ServerSider-1.0.0
+itsschwer-ServerSider-1.3.0
 6thmoon-MultitudesDifficulty-0.5.1
 House_of_Judo-Rusk_of_Rain_2_Railgunner-1.1.1
 mwmw-NiaMercSkin-1.1.0
-RiskofThunder-R2API_Sound-1.0.2
-RiskofThunder-R2API_Networking-1.0.2
-PopcornFactory-Lets_Go_Gambling_SFX_Mod-1.1.0
 itsschwer-eater-0.0.0
 Nuxlar-CoolerStages-1.9.3
 ```
 
-### Seekers of the Storm
-```
-RiskofThunder-BepInEx_GUI-3.0.3
-RiskofThunder-FixPluginTypesSerialization-1.0.4
-RiskofThunder-RoR2BepInExPack-1.19.0
-bbepis-BepInExPack-5.4.2117
-itsschwer-DamageLog-1.1.5
-RiskofThunder-HookGenPatcher-1.2.4
-itsschwer-PressureDrop-1.4.0
-itsschwer-ServerSider-1.0.0
-itsschwer-LootTip-0.0.0
-SussyBnuuy-Hatsune_Miku_Artificer-1.0.1
-KanadeFan-Kanade_Yoisaki_Artificer-1.0.0
-HitagiTzuyu-GanyuRailgunnerSkin-1.0.2
-FantomAs-BlackHole_Commando-1.0.0
-House_of_Judo-Rusk_of_Rain_2_Railgunner-1.1.1
-Thrayonlosa-PillarRevive-1.1.1
-itsschwer-SprintingOnTheScoreboard-1.0.0
-Rune580-Risk_Of_Options-2.8.1
-itsschwer-experimental-0.0.0
-```
+</details>
