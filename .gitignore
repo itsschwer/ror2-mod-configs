@@ -15,4 +15,7 @@
 
 # Ignore -----------------------------------------------------------------------------
 
+/config/BepInEx.DO_NOT_MODIFY.cfg
+/config/FixPluginTypesSerialization.cfg
+
 /config/HIFU.StageAesthetic.Backup.cfg
