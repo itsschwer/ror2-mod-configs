@@ -3,8 +3,9 @@
 ### Preferred
 0. [HookGenPatcher](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/) *— common dependencies*
 1. ~~[BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/) *— client-side; mainly for more helpful item descriptions*~~
-2. [PressureDrop](https://thunderstore.io/package/itsschwer/PressureDrop/) *— server-side; timed pressure plates and `/drop <itemnamenospaces> [@]`*
-3. [DamageLog](https://thunderstore.io/package/itsschwer/DamageLog/) *— client-side; adds a damage log to the HUD*
+2. [DamageLog](https://thunderstore.io/package/itsschwer/DamageLog/) *— client-side; adds a damage log to the HUD*
+3. [PressureDrop](https://thunderstore.io/package/itsschwer/PressureDrop/) *— server-side; timed pressure plates and `/drop <itemnamenospaces> [@]`*
+4. [ServerSider](https://thunderstore.io/package/itsschwer/ServerSider/) *— server-side; small gameplay tweaks*
 4. [PillarRevive](https://thunderstore.io/package/Thrayonlosa/PillarRevive/) *— server-side; multiplayer respawn mechanic*
 
 ### Skins
@@ -20,6 +21,9 @@
 ----
 
 ### Optional
+- [OptionGenerator](https://thunderstore.io/package/6thmoon/OptionGenerator/) — *client-side; generates in-game Risk Of Options configuration menus for mods that don't implement it themselves*
+- [LookStraightDown](https://thunderstore.io/package/HIFU/LookStraightDown/) — *client-side; changes the camera parameters to allow looking straight down and straight up*
+<!--  -->
 - [EnemyItemDisplays](https://thunderstore.io/package/TheTimesweeper/EnemyItemDisplays/) — *client-side; adds (some) item displays for (some) monsters (e.g. Artifact of Evolution, Void Fields, Simulacrum)*
 <!--  -->
 - *one of:*
@@ -37,6 +41,7 @@
 
 ### Developing
 - [UnityExplorer](https://thunderstore.io/package/sinai-dev/UnityExplorer/) *— inspecting GameObjects and Components*
+    - *bugs out the lobby scene due to duplicate `EventSystem` — hide UnityExplorer before entering the scene and unhide it once in a run*
 
 ## Dependency Strings
 
