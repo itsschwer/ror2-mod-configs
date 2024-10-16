@@ -2,7 +2,7 @@
 
 ### Preferred
 0. [HookGenPatcher](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/) *— common dependencies*
-1. ~~[BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/) *— client-side; mainly for more helpful item descriptions*~~
+1. [HUDdleUP](https://thunderstore.io/package/itsschwer/HUDdleUP/) *— client-side; quality-of-life HUD/UI mod —  fuller item descriptions, equipment icon cooldown visual, run difficulty tooltip, a new HUD panels (loot, railgunner accuracy)*
 2. [DamageLog](https://thunderstore.io/package/itsschwer/DamageLog/) *— client-side; adds a damage log to the HUD*
 3. [PressureDrop](https://thunderstore.io/package/itsschwer/PressureDrop/) *— server-side; timed pressure plates and `/drop <itemnamenospaces> [@]`*
 4. [ServerSider](https://thunderstore.io/package/itsschwer/ServerSider/) *— server-side; small gameplay tweaks*
