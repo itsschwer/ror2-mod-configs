@@ -1,7 +1,6 @@
 # Risk of Rain 2: Mods
 
 ### Preferred
-0. [HookGenPatcher](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/) *— common dependencies*
 1. [HUDdleUP](https://thunderstore.io/package/itsschwer/HUDdleUP/) *— client-side; quality-of-life HUD/UI mod —  fuller item descriptions, equipment icon cooldown visual, run difficulty tooltip, a new HUD panels (loot, railgunner accuracy)*
 2. [DamageLog](https://thunderstore.io/package/itsschwer/DamageLog/) *— client-side; adds a damage log to the HUD*
 3. [PressureDrop](https://thunderstore.io/package/itsschwer/PressureDrop/) *— server-side; timed pressure plates and `/drop <itemnamenospaces> [@]`*
@@ -33,7 +32,7 @@
 ----
 
 ### Alternative Gamemodes
-- [](https://thunderstore.io/package/6thmoon/MultitudesDifficulty/) *— server-side; adds a difficulty option that increases the effective player count*
+- [MultitudesDifficulty](https://thunderstore.io/package/6thmoon/MultitudesDifficulty/) *— server-side; adds a difficulty option that increases the effective player count*
 - [Refightilization](https://thunderstore.io/package/Wonda/Refightilization/) *— server-side; respawn as a monster*
 - [RiskOfChaos](https://thunderstore.io/package/Goorakh/RiskOfChaos/) *— **all players**; might be buggy; triggers a random effect every minute*
 

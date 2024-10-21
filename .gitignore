@@ -18,4 +18,6 @@
 /config/BepInEx.DO_NOT_MODIFY.cfg
 /config/FixPluginTypesSerialization.cfg
 
+/config/com.sinai.unityexplorer.cfg
+
 /config/local.option.generator.cfg
