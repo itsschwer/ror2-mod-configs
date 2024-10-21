@@ -1,11 +1,11 @@
 # Risk of Rain 2: Mods
 
 ### Preferred
-1. [HUDdleUP](https://thunderstore.io/package/itsschwer/HUDdleUP/) *— client-side; quality-of-life HUD/UI mod —  fuller item descriptions, equipment icon cooldown visual, run difficulty tooltip, a new HUD panels (loot, railgunner accuracy)*
+1. [HUDdleUP](https://thunderstore.io/package/itsschwer/HUDdleUP/) *— client-side; quality-of-life HUD/UI mod —  fuller item descriptions, equipment icon cooldown visual, run difficulty tooltip, new HUD panels (loot, railgunner accuracy)*
 2. [DamageLog](https://thunderstore.io/package/itsschwer/DamageLog/) *— client-side; adds a damage log to the HUD*
-3. [PressureDrop](https://thunderstore.io/package/itsschwer/PressureDrop/) *— server-side; timed pressure plates and `/drop <itemnamenospaces> [@]`*
+3. [PressureDrop](https://thunderstore.io/package/itsschwer/PressureDrop/) *— server-side; configurable timed pressure plates and `/drop <itemnamenospaces> [@]`*
 4. [ServerSider](https://thunderstore.io/package/itsschwer/ServerSider/) *— server-side; small gameplay tweaks*
-4. [PillarRevive](https://thunderstore.io/package/Thrayonlosa/PillarRevive/) *— server-side; multiplayer respawn mechanic*
+5. [PillarRevive](https://thunderstore.io/package/Thrayonlosa/PillarRevive/) *— server-side; multiplayer respawn mechanic*
 
 ### Skins
 - [Hatsune_Miku_Artificer](https://thunderstore.io/package/SussyBnuuy/Hatsune_Miku_Artificer/)
@@ -25,7 +25,7 @@
 ### Optional
 - [OptionGenerator](https://thunderstore.io/package/6thmoon/OptionGenerator/) *— client-side; generates in-game Risk Of Options configuration menus for mods that don't implement it themselves*
 - [LookStraightDown](https://thunderstore.io/package/HIFU/LookStraightDown/) *— client-side; changes the camera parameters to allow looking straight down and straight up*
-- [HealthBarViewer](https://thunderstore.io/package/6thmoon/HealthBarViewer/) *— client-side; show enemy health bars when aimed at or at low health (+more, check configuration file)*
+- [HealthBarViewer](https://thunderstore.io/package/6thmoon/HealthBarViewer/) *— client-side; shows enemy health bars when aimed at or at low health (+more, check configuration file)*
 <!--  -->
 - [EnemyItemDisplays](https://thunderstore.io/package/TheTimesweeper/EnemyItemDisplays/) — *client-side; adds (some) item displays for (some) monsters (e.g. Artifact of Evolution, Void Fields, Simulacrum)*
 <!--  -->
