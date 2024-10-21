@@ -16,6 +16,9 @@
 <!--  -->
 - [Rusk_of_Rain_2_Railgunner](https://thunderstore.io/package/House_of_Judo/Rusk_of_Rain_2_Railgunner/) *— has four texture variants*
 - [NiaMercSkin](https://thunderstore.io/package/mwmw/NiaMercSkin/) — *both Blade form and Driver form*
+<!--  -->
+- [FixGenesisLoopConsoleSpam](https://thunderstore.io/package/Moffein/FixGenesisLoopConsoleSpam/) *— client-side; "Fixes console spam from Genesis Loop when playing with certain custom skins and survivors"*
+    - `[Warning: Unity Log] Particle System is trying to spawn on a mesh with zero surface area`
 
 ----
 
