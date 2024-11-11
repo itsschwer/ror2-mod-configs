@@ -5,25 +5,24 @@
 2. [DamageLog](https://thunderstore.io/package/itsschwer/DamageLog/) *— client-side; adds a damage log to the HUD*
 3. [PressureDrop](https://thunderstore.io/package/itsschwer/PressureDrop/) *— server-side; configurable timed pressure plates and `/drop <itemnamenospaces> [@]`*
 4. [ServerSider](https://thunderstore.io/package/itsschwer/ServerSider/) *— server-side; small gameplay tweaks*
-5. [PillarRevive](https://thunderstore.io/package/Thrayonlosa/PillarRevive/) *— server-side; multiplayer respawn mechanic*
+5. [OptionGenerator](https://thunderstore.io/package/6thmoon/OptionGenerator/) *— client-side; generates in-game Risk Of Options configuration menus for mods that don't implement it themselves*
+6. [PillarRevive](https://thunderstore.io/package/Thrayonlosa/PillarRevive/) *— server-side; multiplayer respawn mechanic*
 
 ### Skins
 - [Hatsune_Miku_Artificer](https://thunderstore.io/package/SussyBnuuy/Hatsune_Miku_Artificer/)
 - [BlackHole_Commando](https://thunderstore.io/package/FantomAs/BlackHole_Commando/)
 - [GanyuRailgunnerSkin](https://thunderstore.io/package/HitagiTzuyu/GanyuRailgunnerSkin/)
 - [Kanade_Yoisaki_Artificer](https://thunderstore.io/package/KanadeFan/Kanade_Yoisaki_Artificer/)
-- [ModelSwapperSkins](https://thunderstore.io/package/Goorakh/ModelSwapperSkins/) *— apply any skin to any character*
-<!--  -->
 - [Rusk_of_Rain_2_Railgunner](https://thunderstore.io/package/House_of_Judo/Rusk_of_Rain_2_Railgunner/) *— has four texture variants*
+- [ModelSwapperSkins](https://thunderstore.io/package/Goorakh/ModelSwapperSkins/) *— apply any skin to any character*
 - [NiaMercSkin](https://thunderstore.io/package/mwmw/NiaMercSkin/) *— both Blade form and Driver form*
 <!--  -->
 - [FixGenesisLoopConsoleSpam](https://thunderstore.io/package/Moffein/FixGenesisLoopConsoleSpam/) *— client-side; "Fixes console spam from Genesis Loop when playing with certain custom skins and survivors"*
-    - `[Warning: Unity Log] Particle System is trying to spawn on a mesh with zero surface area`
+    - *`[Warning: Unity Log] Particle System is trying to spawn on a mesh with zero surface area`*
 
 ----
 
 ### Optional
-- [OptionGenerator](https://thunderstore.io/package/6thmoon/OptionGenerator/) *— client-side; generates in-game Risk Of Options configuration menus for mods that don't implement it themselves*
 - [LookStraightDown](https://thunderstore.io/package/HIFU/LookStraightDown/) *— client-side; changes the camera parameters to allow looking straight down and straight up*
 - [HealthBarViewer](https://thunderstore.io/package/6thmoon/HealthBarViewer/) *— client-side; shows enemy health bars when aimed at or at low health (+more, check configuration file)*
 <!--  -->
