@@ -3,8 +3,8 @@
 ### Preferred
 1. [HUDdleUP](https://thunderstore.io/package/itsschwer/HUDdleUP/) *— client-side; quality-of-life HUD/UI mod —  fuller item descriptions, equipment icon cooldown visual, run difficulty tooltip, new HUD panels (loot, railgunner accuracy)*
 2. [DamageLog](https://thunderstore.io/package/itsschwer/DamageLog/) *— client-side; adds a damage log to the HUD*
-3. [PressureDrop](https://thunderstore.io/package/itsschwer/PressureDrop/) *— server-side; configurable timed pressure plates and `/drop <itemnamenospaces> [@]`*
-4. [ServerSider](https://thunderstore.io/package/itsschwer/ServerSider/) *— server-side; small gameplay tweaks*
+3. [ServerSider](https://thunderstore.io/package/itsschwer/ServerSider/) *— server-side; small gameplay tweaks*
+4. [PressureDrop](https://thunderstore.io/package/itsschwer/PressureDrop/) *— server-side; `/drop <itemnamenospaces> [@]`*
 5. [OptionGenerator](https://thunderstore.io/package/6thmoon/OptionGenerator/) *— client-side; generates in-game Risk Of Options configuration menus for mods that don't implement it themselves*
 6. [PillarRevive](https://thunderstore.io/package/Thrayonlosa/PillarRevive/) *— server-side; multiplayer respawn mechanic*
 
